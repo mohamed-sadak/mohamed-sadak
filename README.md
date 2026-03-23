@@ -1,3 +1,4 @@
+![Bannière de Mohamed Sadak](./banner.png)
 # Hi, I'm Mohamed Sadak! 👋
 ### Full Stack Developer | React & Laravel | UI/UX Enthusiast
 
